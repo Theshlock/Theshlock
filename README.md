@@ -1,4 +1,5 @@
-I do most of my work on [gitlab][1]
+I do most of my work on [Gitlab][1]
+
 [Linkedin][2]
 
 
